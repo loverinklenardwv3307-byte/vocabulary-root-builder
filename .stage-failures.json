@@ -1,0 +1,244 @@
+{
+  "attempts": [
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794891249
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794934571
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794935532
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794936492
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794937454
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794938415
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794939376
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794940337
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794941299
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794942259
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794943221
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794944182
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794945143
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794946105
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794989429
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794990391
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794991353
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794992316
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794993278
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794994239
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794995203
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794996165
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794997126
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794998091
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794999053
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1795000014
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1795000977
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1795044301
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1795045263
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1795046224
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1795047188
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1795048149
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1795049111
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1795050074
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1795051036
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1795051998
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1795052961
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1795053923
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1795054884
+    },
+    {
+      "stage": "jira-attach",
+      "raw_stage": "jira-attach",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1795055848
+    }
+  ]
+}

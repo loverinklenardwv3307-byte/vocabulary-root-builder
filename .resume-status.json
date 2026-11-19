@@ -1,0 +1,8 @@
+{
+  "outcome": "running",
+  "fix_type": "transient",
+  "resume_from": "jira-attach",
+  "message": "Resuming from jira-attach (transient)…",
+  "log": "projects/VocabularyRootBuilder/.resume-20261119-033728.log",
+  "attempted_at_epoch": 1795055850
+}
